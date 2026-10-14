@@ -1,7 +1,7 @@
 # Student_management_py
 Concepts Covered:
-Structures (struct)
+Dictionary or class
 File handling
-Arrays
+Lists (list)
 Menu-driven program
 📝 Why: This simulates a real-world database. You’ll learn how to save, retrieve, and manipulate data persistently.
